@@ -2,7 +2,7 @@
 
 namespace OilNetCore.Models;
 
-public class EntityBase
+public abstract class EntityBase
 {
     protected EntityBase()
     {
